@@ -14,6 +14,7 @@ module.exports = {
       network_id: 31,
       gasPrice: 0x387ee40,
       networkCheckTimeout: 1000000000,
+      // "minimumGasPrice":"0x387ee40"
     },
   },
   compilers: {

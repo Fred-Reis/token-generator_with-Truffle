@@ -887,12 +887,12 @@
     "31": {
       "events": {},
       "links": {},
-      "address": "0xB11C4F440a34241E78E89408571A80a2a4298043",
-      "transactionHash": "0x419a7286214beb714baf16573556954fb4f2d852e4902e1f400b437a057b3824"
+      "address": "0x1a90b55436970a701c9d9a3ff0211c4325834424",
+      "transactionHash": "0x1914f422ae32f4d6de2ff2078c36a4379800975bb1fbb4483a2cbe30816c2e45"
     }
   },
   "schemaVersion": "3.2.0",
-  "updatedAt": "2020-06-09T04:13:59.349Z",
+  "updatedAt": "2020-06-10T01:03:34.837Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
